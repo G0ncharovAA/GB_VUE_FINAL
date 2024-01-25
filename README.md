@@ -1,19 +1,35 @@
-# bg_vue_final2
+# Учебный проект на Vue.js
 
-## Project setup
-```
-npm install
-```
+Этот проект создан в рамках итоговой аттестации в GeekBrains. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Описание
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Учебный проект представляет собой веб-приложение, разработанное с использованием фреймворка Vue.js.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Требования к установке
+
+Прежде чем приступить к установке проекта, убедитесь, что у вас установлен Node.js.
+
+## Установка
+
+1. Склонируйте репозиторий: 
+   
+   git clone https://github.com/G0ncharovAA/GB_VUE_FINAL.git
+   
+
+2. Перейдите в каталог проекта: 
+   
+   cd your-repo
+   
+
+3. Установите зависимости: 
+   
+   npm install
+   
+
+4. Запустите проект: 
+   
+   npm run serve
+   
+
+5. Откройте приложение в браузере по адресу [http://localhost:8080](http://localhost:8080).
